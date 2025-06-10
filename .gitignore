@@ -1,0 +1,22 @@
+# .gitignore
+
+# Streamlit-specific files
+.streamlit/secrets.toml    
+.streamlit/local_configs.toml
+.streamlit/cache/         
+
+# Python virtual environments
+myenv/                    
+
+# Python compiled files and build artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Operating System specific files
+.DS_Store                  # macOS
+Thumbs.db                  # Windows
