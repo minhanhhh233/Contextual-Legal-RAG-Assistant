@@ -5,6 +5,9 @@ This application presents an advanced **Retrieval-Augmented Generation (RAG)** s
 This idea is inspired by approaches from [Anthropic](https://www.anthropic.com/news/contextual-retrieval) and [TrueLaw.ai](https://www.truelaw.ai/blog/contextual-legal-rag).
 
 ---
+### Demo
+[![Legal RAG Assistant Demo](https://img.youtube.com/vi/UxzdA7gqrr0/hqdefault.jpg)](https://www.youtube.com/watch?v=UxzdA7gqrr0)
+---
 
 ### How It Works: An Enhanced Legal Retrieval Process
 
